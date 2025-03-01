@@ -11,7 +11,7 @@ BEM VINDO AO PIPE DE VARIANTE SOMATICA !
     
 
 # EP2-SOMATICO
-O desafio é mapear, anotar, filtrar e comparar arquivos da amostra tumoral WP312, com foco no uso do Mutect2 e PoN (panel of normals).
+O desafio é mapear, anotar, filtrar e comparar arquivos da amostra tumoral WP312 disponibilizados pela equipe da Pos-graduação em Bioinformática, com foco no uso do Mutect2 e PoN (panel of normals).
 
 # Instalação .FASTQ
 
